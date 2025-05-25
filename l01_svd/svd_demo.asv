@@ -1,3 +1,5 @@
+%% Lecture 12 Code
+
 % Clean workspace
 clear all; close all; clc
 
@@ -12,6 +14,21 @@ axis equal
 xlabel('weight')
 ylabel('height')
 set(gca,'Fontsize',16)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 %% Calculate the SVD of the weight-height matrix
 
